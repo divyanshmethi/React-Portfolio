@@ -91,11 +91,6 @@
         "image": "whatsapp-mern.jpeg"
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg"
-      },
-      {
         "title": "Facebook Clone with React",
         "category": "Facebook Clone built with ReactJS",
         "image": "facebook-clone.png"
@@ -104,11 +99,6 @@
         "title": "Airbnb Clone",
         "category": "Facebook Clone built with ReactJS",
         "image": "airbnb-clone.jpeg"
-      },
-      {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg"
       }
     ]
   }
